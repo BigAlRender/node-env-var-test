@@ -1,0 +1,15 @@
+{
+  "name": "env-var-test",
+  "version": "0.0.1",
+  "description": "Testing env vars on Render Redis",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
+  }
+}

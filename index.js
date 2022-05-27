@@ -1,0 +1,1 @@
+console.log(process.env.REACT_APP_LAST_COMMIT_HASH);
